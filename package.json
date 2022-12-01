@@ -1,0 +1,19 @@
+{
+  "name": "role-oriented",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.3.1",
+    "graphql": "^14.1.0",
+    "mongodb": "4.12",
+    "mongoose": "^6.7.5",
+    "mongoose-paginate-v2": "^1.7.1"
+  }
+}
